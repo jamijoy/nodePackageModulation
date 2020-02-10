@@ -1,0 +1,23 @@
+{
+  "name": "packagejami",
+  "version": "1.0.1",
+  "description": "for test purposes only",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/jamiJoy.git"
+  },
+  "keywords": [
+    "Test",
+    "Files"
+  ],
+  "author": "Jami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/jamiJoy/issues"
+  },
+  "homepage": "https://github.com/www.github.com/jamiJoy#readme"
+}
